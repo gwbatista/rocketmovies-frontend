@@ -66,7 +66,7 @@ export const Profile = styled.div`
       font-size: 14px;
     }
 
-    span {
+    a {
       font-size: 14px;
       color: ${({ theme }) => theme.COLORS.GRAY_100};
       align-self: end;
