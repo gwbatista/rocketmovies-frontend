@@ -32,9 +32,7 @@ export const Container = styled(Link)`
 
   .icons {
     color: ${({ theme }) => theme.COLORS.PINK};
-    width: 84px;
-    height: 12px;
-
+  
     margin-bottom: 15px;
   }
 
